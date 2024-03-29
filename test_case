@@ -1,0 +1,1281 @@
+special =                             
+    {                                
+        "team": "aeiou",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "targetDateTimeAt": "20:00"
+    },
+    {
+        "team": "aeiou",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "targetDateTimeAt": "20:00"
+    },
+    {
+        "team": "eiou",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "targetDateTimeAt": "20:00"
+    },
+    {
+        "team": "iou",
+        "targetBestof": 3,
+        "targetLeague": 1,
+        "targetDateTimeAt": "20:00"
+    },
+
+request = [
+{
+    "targetDateTimeAt": "20:00",
+    "targetBestof": 3,
+    "targettargetLeague": 1,
+    "teams": 
+            "First of td"
+    },
+{
+    "targetDateTimeAt": "20:00",
+    "targetBestof": 2,
+    "targetLeague": 2,
+    "teams": 
+            "Coming 4 by bibi"
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "Coming 4 by bibi"
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "BERSERK GLORY BY BIBI"
+    },
+
+{
+    "targetDateTimeAt": "20:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "ฝึกทำเวฟ"
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "ฝึกทำเวฟ"
+    },
+{
+    "targetDateTimeAt": "22:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "ฝึกทำเวฟ"
+    },
+{
+    "targetDateTimeAt": "20:30",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "สายไหม"
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "Synthetic﻿"
+    },
+{
+    "targetDateTimeAt": "20:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "werewolf"
+    },
+{
+    "targetDateTimeAt": "22:00",
+    "targetBestof": 2,
+    "targetLeague": 2,
+    "teams": 
+            "werewolf"
+         
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "The Next Gen"
+         
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 3,
+    "targetLeague": 2,
+    "teams": 
+            "KARCHARIAZ"
+         
+    },
+{
+    "targetDateTimeAt": "20:00",
+    "targetBestof": 2,
+    "targetLeague": 3,
+    "teams": 
+            "ONE POINT BY BIBI"         
+    },
+{
+    "targetDateTimeAt": "21:00",
+    "targetBestof": 2,
+    "targetLeague": 3,
+    "teams": 
+            "ONE POINT BY BIBI"   
+    },
+{
+    "targetDateTimeAt": "20:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "Yanghom"         
+    },
+
+{
+    "targetDateTimeAt": "20:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "FoolPrint"        
+    },
+{
+    "targetDateTimeAt": "21:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "ATOMIC"
+         
+    } ,
+{
+    "targetDateTimeAt": "20:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "Dimension Origin"
+        
+    },
+{
+    "targetDateTimeAt": "21:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "ATOMIC"
+         
+    },
+{
+    "targetDateTimeAt": "20:30",
+    "targetBestof": 2,
+    "targetLeague": 3,
+    "teams": 
+            "Beserk"
+         
+    },
+{
+    "targetDateTimeAt": "21:30",
+    "targetBestof": 3,
+    "targetLeague": 3,
+    "teams": 
+            "KRP"
+},
+  {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    },
+ {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 3,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    },
+{
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    },
+ {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    },
+ {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": ""22:00"",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "22:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    },
+ {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 1,
+        "targetLeague": 1,
+        "teams": 
+            "First of td"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "Coming 4 by bibi"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "Star​ Dream​ E-sport (STD)​"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "BERSERK GLORY BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 1,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "ฝึกทำเวฟ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 1,
+        "targetLeague": 2,
+        "teams": 
+            "สายไหม"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "Synthetic"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "werewolf"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 2,
+        "targetLeague": 2,
+        "teams": 
+            "The Next Gen"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 4,
+        "targetLeague": 2,
+        "teams": 
+            "KARCHARIAZ"
+        
+    },
+    {
+        "targetDateTimeAt": "20:30",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 1,
+        "targetLeague": 3,
+        "teams": 
+            "ONE POINT BY BIBI"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "Yanghom"
+        
+    },
+    {
+        "targetDateTimeAt": "21:30",
+        "targetBestof": 4,
+        "targetLeague": 3,
+        "teams": 
+            "FoolPrint"
+        
+    },
+    {
+        "targetDateTimeAt": "21:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 2,
+        "targetLeague": 3,
+        "teams": 
+            "Beserk"
+        
+    },
+    {
+        "targetDateTimeAt": "20:00",
+        "targetBestof": 3,
+        "targettargetLeague": 3,
+        "teams": 
+            "KRP"
+        
+    }
+
+
+
+
+
+{
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 3,
+        "targetLeague": 3,
+        "teams": 
+            "Dimension Origin"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 3,
+        "targetLeague": 2,
+        "teams": 
+            "ATOMIC"
+        
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 2,
+        "targetLeague": 1,
+        "teams": 
+            "Beserk"
+    },
+    {
+        "targetDateTimeAt": "19:00",
+        "targetBestof": 3,
+        "targettargetLeague": 3,
+        "teams": 
+            "KRP"
+    }
+]
